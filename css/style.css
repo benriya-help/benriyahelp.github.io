@@ -164,7 +164,7 @@ aside {
 #contact {
     display: flex;
     justify-content:space-between ;
-    height:200px;
+    /* height:200px; */
     background-image:linear-gradient(#93C341,#fff) ;
 }
 .contact-message {
